@@ -1,0 +1,5 @@
+/data/
+__pycache__/
+*.pyc
+.mock_version
+.DS_Store
